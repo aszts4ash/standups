@@ -20,3 +20,5 @@ Files may appear in `/tmp` or `docker_volume_cache`.
 Everything runs in unpredictable absurd-tech order.
 
 # Touch update: 1760618366
+
+# PR Merge: 2025-10-16 - enhancement/merge-5286
