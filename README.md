@@ -24,3 +24,5 @@ Everything runs in unpredictable absurd-tech order.
 # PR Merge: 2025-10-16 - enhancement/merge-5286
 
 # PR Merge: 2025-10-16 - enhancement/merge-4601
+
+# PR Merge: 2025-10-16 - docs/merge-2090
